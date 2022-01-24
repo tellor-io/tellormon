@@ -12,3 +12,4 @@ The following features are currently planned:
 - Provide alerts when new data is submitted to the oracle. 
 - Allow users to dispute oracle data.
 
+The initial design concept is described here: https://github.com/tellor-io/tellormon/wiki/Design
